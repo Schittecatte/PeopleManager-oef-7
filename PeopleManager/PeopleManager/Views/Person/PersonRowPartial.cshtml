@@ -1,0 +1,17 @@
+﻿@model PeopleManager.Model.Person
+
+<tr>
+    <td>@Model.FirstName</td>
+    <td>@Model.Name</td>
+    <td>@Model.Email</td>
+    <td>
+        @Html.ActionLink("Bewerken", "Edit", "Person", new { id = Model.Id}, new {@class="btn btn-default"})
+    </td>
+    <td>
+        @Html.ActionLink("Verwijderen", "Delete", "Person", new { id = Model.Id }, new { @class = "btn btn-warning" })
+    </td>
+    <td>
+        <!-- Trigger the modal with a button -->
+        <a class="btn btn-warning deleteModalButton" data-toggle="modal" data-target="#deletePersonModal" data-id="@Model.Id">Verwijder Modal</a>
+    </td>
+</tr>

@@ -1,0 +1,18 @@
+﻿@model PeopleManager.Model.Person
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Id)
+
+    @Html.EditorForModel()
+    @*@Html.EditorFor(m => m)
+    @Html.Partial("EditorTemplates/Person", Model)*@
+
+    <input type="submit" value="Bewerken" />
+}

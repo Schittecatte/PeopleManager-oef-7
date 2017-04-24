@@ -1,0 +1,5 @@
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager.Model\bin\Debug\PeopleManager.Model.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager.Model\bin\Debug\PeopleManager.Model.pdb
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager.Model\obj\Debug\PeopleManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager.Model\obj\Debug\PeopleManager.Model.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager.Model\obj\Debug\PeopleManager.Model.pdb

@@ -1,0 +1,134 @@
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\ApplicationInsights.config
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\csc.exe
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\csc.exe.config
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\csc.rsp
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\csi.exe
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\csi.rsp
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.AppContext.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.Collections.Immutable.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.IO.FileSystem.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\vbc.exe
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\vbc.exe.config
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\vbc.rsp
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\VBCSCompiler.exe
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\roslyn\VBCSCompiler.exe.config
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\PeopleManager.dll.config
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\PeopleManager.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\PeopleManager.pdb
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Antlr3.Runtime.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.DependencyCollector.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.Web.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.WindowsServer.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.ApplicationInsights.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.Web.Infrastructure.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Newtonsoft.Json.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Helpers.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Mvc.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Optimization.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Razor.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.Deployment.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.Razor.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\WebGrease.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Helpers.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Mvc.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Optimization.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.Razor.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.Deployment.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\System.Web.WebPages.Razor.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Antlr3.Runtime.pdb
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Newtonsoft.Json.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.ApplicationInsights.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.DependencyCollector.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.WindowsServer.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\bin\Microsoft.AI.Web.xml
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\obj\Debug\PeopleManager.dll
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb
+E:\Temp\PeopleManager\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csprojResolveAssemblyReference.cache
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\ApplicationInsights.config
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\csc.exe
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\csc.exe.config
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\csc.rsp
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\csi.exe
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\csi.rsp
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.AppContext.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\vbc.exe
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\vbc.exe.config
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\vbc.rsp
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\PeopleManager.dll.config
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\PeopleManager.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\PeopleManager.pdb
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Antlr3.Runtime.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.Web.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Newtonsoft.Json.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Helpers.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Mvc.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Optimization.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Razor.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\WebGrease.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Helpers.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Mvc.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Optimization.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.Razor.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Antlr3.Runtime.pdb
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Newtonsoft.Json.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\bin\Microsoft.AI.Web.xml
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\obj\Debug\PeopleManager.csprojResolveAssemblyReference.cache
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\obj\Debug\PeopleManager.dll
+C:\Users\niels\Downloads\PeopleManager Les 7 (2)\PeopleManager\PeopleManager\obj\Debug\PeopleManager.pdb

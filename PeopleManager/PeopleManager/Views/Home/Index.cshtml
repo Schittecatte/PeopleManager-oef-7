@@ -1,0 +1,15 @@
+﻿@model IList<PeopleManager.Model.Person>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>People</h1>
+
+<div class="row" style="background: red;">
+    @foreach (var person in Model)
+    {
+        <div class="col-xs-4">
+            @Html.Partial("PersonPartial", person)
+        </div>
+    }
+</div>

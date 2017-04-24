@@ -1,0 +1,18 @@
+﻿@model IList<PeopleManager.Model.Person>
+<table>
+    <thead>
+        <tr>
+            <th>Voornaam</th>
+            <th>Naam</th>
+            <th>Email</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            @Html.Partial("PersonRowPartial", person)
+        }
+    </tbody>
+</table>
